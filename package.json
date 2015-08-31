@@ -1,0 +1,22 @@
+{
+  "name": "NatalieBJewelry",
+  "version": "1.0.0",
+  "description": "Natalie B Jewelry test given by SeedCMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newsn31/NBJLayout"
+  },
+  "author": "Quang Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newsn31/NBJLayout/issues"
+  },
+  "homepage": "https://github.com/newsn31/NBJLayout",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

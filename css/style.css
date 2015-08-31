@@ -1,0 +1,113 @@
+/*
+Author: Quang Vo
+Description: Custom css for Natalie B Jewelry
+*/
+
+.header-toolbar {
+  background: #A8A8A8;
+  color: white;
+  font-size: 12px;
+  padding: 7px 0;
+}
+.toolbar-message {
+  font-size: 13px;
+  font-family: Roboto, sans-serif;
+  color: white;
+}
+body > div > div > a {
+  color: white;
+}
+body > div > div > div > a {
+  color: white;
+}
+.search-form {
+  padding-top: 45px;
+  padding-right: 20px;
+  bottom: 0;
+}
+.stylish-input-group {
+  padding-top: 30px;
+}
+.stylish-input-group .input-group-addon {
+  background: white;
+  border-color: #FFF;
+}
+.stylish-input-group .form-control {
+  border-right: 0;
+  box-shadow: 0 0 0;
+  border-color: #FFF;
+}
+.stylish-input-group button {
+  border: 0;
+  border-color: #FFF;
+  background: transparent;
+}
+.navbar {
+  border-color: white;
+  background-color: white;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+.navbar-bottom {
+  border-color: white;
+  background-color: #a8a8a8;
+  font-size: 18px;
+  font-family: Montserrat;
+  color: white !important;
+  margin-bottom: 5px;
+}
+ul.nav.navbar-nav.navbar-bottom {
+  background-color: #a8a8a8;
+  font-size: 20px;
+  color: white;
+}
+.navbar.navbar-default.navbar-bottom {
+  margin-bottom: -10px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  border-color: white;
+  background-color: white;
+  color: black;
+}
+.navbar .navbar-ex1-collapse {
+  text-align: center;
+  margin-bottom: -10px;
+}
+.img-responsive {
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+#mainImage {
+  margin-top: -10px;
+}
+.advertisement-message {
+  font-size: 15px;
+  font-family: Montserrat;
+  color: black;
+}
+.img-overlay {
+  position: relative;
+  max-width: 370px;
+}
+.project-overlay {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  color: #fff;
+  padding-top: 45%;
+  padding-left: 10px;
+  padding-right: 10px;
+  opacity: 1;
+  box-sizing: border-box;
+  vertical-align: middle;
+  border-radius: 15px 50px;
+  font-family: helvetica;
+  font-size: 9px;
+}

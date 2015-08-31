@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/newsn31/NBJLayout",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-util": "^3.0.6",
+    "jshint-stylish": "^2.0.1"
   }
 }
